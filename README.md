@@ -101,3 +101,12 @@ Her pikselin molekül yapısına dönüştürüldüğü, veritabanı destekli ö
 
 🔗 Repo: https://github.com/SultanKarapinar/Real-Time-Image-Encryption-with-OpenCV
 
+---
+## 📊 GitHub İstatistiklerim
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=SultanKarapinar&show_icons=true&theme=tokyonight&hide_border=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SultanKarapinar&layout=compact&theme=tokyonight&hide_border=true)
+
+![GitHub Streak](https://streak-stats.demolab.com?user=SultanKarapinar&theme=tokyonight&hide_border=true)
+
