@@ -92,11 +92,12 @@ ASP.NET Web API & React kullanarak **kurumsal ve uçtan uca yazılım çözümle
 Karanlık fantastik temalı, mekanik odaklı 2D Unity oyunu.  
 Ruh mızrağı fırlatma ve dönen lanet çarkları üzerine kurulu bir sistem.
 
-🔗 Repo: https://github.com/SultanKarapinar/ruh-avcisi
+🔗 Repo: https://github.com/SultanKarapinar/mizrak_firlatma 
 
 ---
 
 ### 🔐 Görüntü Şifreleme Projesi
 Her pikselin molekül yapısına dönüştürüldüğü, veritabanı destekli özgün bir görüntü şifreleme yaklaşımı.
 
-🔗 Repo: https://github.com/SultanKarapinar/goruntu-sifreleme
+🔗 Repo: https://github.com/SultanKarapinar/Real-Time-Image-Encryption-with-OpenCV
+
