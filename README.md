@@ -93,6 +93,7 @@ Karanlık fantastik temalı, mekanik odaklı 2D Unity oyunu.
 Ruh mızrağı fırlatma ve dönen lanet çarkları üzerine kurulu bir sistem.
 
 🔗 Repo: https://github.com/SultanKarapinar/mizrak_firlatma 
+🎥 Demo Video:https://youtu.be/NwLNO1wB8Xw
 
 ---
 
