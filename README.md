@@ -8,7 +8,8 @@ Teknolojiyi yalnızca kod yazmak için değil; problem çözmek, süreçleri iyi
 
 ## 🎓 Eğitim ve Deneyim
 
-Yazılım Mühendisliği öğrencisi olarak eğitimime devam ederken, Aksaray Üniversitesi Ortak Eğitim Programı kapsamında 10 ay süren uzun dönemli stajımı başarıyla tamamladım.
+Yazılım Mühendisliği bölümünden mezun oldum. Eğitim sürecimde, Aksaray Üniversitesi Ortak Eğitim Programı kapsamında 10 ay süren uzun dönemli stajımı başarıyla tamamlayarak kurumsal yazılım geliştirme projelerinde görev aldım ve sektörel deneyim kazandım.
+
 
 Bu süreçte kurumsal yazılım geliştirme projelerinde görev alarak:
 
