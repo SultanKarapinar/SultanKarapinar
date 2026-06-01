@@ -1,106 +1,138 @@
 # 👋 Merhaba, ben Sultan Karapınar
 
-Yazılım geliştirme, **özgün algoritmalar** ve **oyun tasarımı** üzerine odaklanan bir geliştiriciyim.  
-Teknik üretimi yalnızca kod yazmak olarak değil; **fikir geliştirme, problem çözme ve sistemi bütüncül düşünme** süreci olarak görüyorum.
+Yazılım geliştirme, özgün algoritmalar ve sistem tasarımı üzerine odaklanan bir geliştiriciyim.
+
+Teknolojiyi yalnızca kod yazmak için değil; problem çözmek, süreçleri iyileştirmek ve yenilikçi fikirleri hayata geçirmek için kullanıyorum. Özellikle web ve mobil uygulama geliştirme, veri yönetimi, şifreleme sistemleri ve yazılım mimarileri üzerine çalışıyorum.
 
 ---
 
-## 🌱 Şu Anda
+## 🎓 Eğitim ve Deneyim
 
-**Software Engineering Intern (Co-op)**  
-Aksaray Üniversitesi Ortak Eğitim Programı kapsamında bir şirkette  
-**tam zamanlı mühendislik deneyimi** kazanıyorum.
+Yazılım Mühendisliği öğrencisi olarak eğitimime devam ederken, Aksaray Üniversitesi Ortak Eğitim Programı kapsamında 10 ay süren uzun dönemli stajımı başarıyla tamamladım.
 
-**Tech Stack:**  
-ASP.NET Web API & React kullanarak **kurumsal ve uçtan uca yazılım çözümleri** geliştiriyorum.
+Bu süreçte kurumsal yazılım geliştirme projelerinde görev alarak:
 
----
+* ASP.NET Web API geliştirme
+* React tabanlı kullanıcı arayüzleri oluşturma
+* Veritabanı tasarımı ve yönetimi
+* RESTful servis geliştirme
+* Kurumsal envanter ve stok yönetim sistemleri
 
-## 💻 İlgi Alanlarım & Çalışma Alanlarım
-
-### 🧠 Algoritma & Şifreleme
-- Koku, molekül ve müzik notalarını temel alan **özgün şifreleme yaklaşımları**
-- Görüntü şifreleme  
-  *(piksel–molekül eşleştirmeleri, veritabanı destekli yapı)*
-- Doğadaki altıgen yapılardan esinlenen **PetekNorm** normalizasyon fikri
+alanlarında uygulamalı deneyim kazandım.
 
 ---
 
-### 🎮 Oyun Geliştirme (Unity / 2D)
-- Mekanik odaklı oyunlar *(Knife Hit benzeri sistemler)*
-- **Ruh Avcısı: Kaybolmuş Ruhlar**  
-  Karanlık fantastik temalı 2D oyun projesi
-- Giriş / bitiş ekranları, ses efektleri ve **game feel** geliştirme
+## 💻 İlgi Alanlarım
+
+### 🔐 Algoritma ve Şifreleme
+
+* Koku, molekül ve müzik notalarını temel alan özgün şifreleme yaklaşımları
+* Görüntü şifreleme sistemleri
+* Piksel–molekül eşleştirmelerine dayalı veri güvenliği çalışmaları
+* Alternatif veri dönüştürme ve kodlama yöntemleri
+
+### 🌐 Web ve Mobil Uygulama Geliştirme
+
+* ASP.NET Web API
+* React
+* RESTful servis mimarileri
+* Mobil uygulama geliştirme
+* Kurumsal yönetim sistemleri
+* Envanter ve stok takip uygulamaları
+
+### 📊 Veri ve Makine Öğrenmesi
+
+* Sağlık verileri üzerinde anomali tespiti
+* Isolation Forest algoritması
+* Sınıflandırma doğruluğu analizi
+* Hata matrisi ve Kappa katsayısı çalışmaları
 
 ---
 
-### 📊 Veri & Makine Öğrenmesi
-- Sağlık verileri (nabız) üzerinden **anomali tespiti**
-- **Isolation Forest** ile anormal durum analizi
-- Sınıflandırma doğruluğu, hata matrisi ve **kappa katsayısı** çalışmaları
+## 🛠️ Teknik Yetkinlikler
 
----
+### Backend
 
-## 🛠️ Teknik Yetkinliklerim
+* ASP.NET Web API
+* C#
+* Entity Framework
 
-### 🌐 Web
-- ASP.NET Web API
-- React
-- RESTful API
+### Frontend
 
-### 🖥️ Masaüstü & Veri
-- C# WinForms ile uygulama geliştirme
-- Entity Framework
-- Microsoft SQL Server  
-  *(CRUD, sorgu optimizasyonu)*
+* React
+* HTML
+* CSS
+* JavaScript
 
-### 🎮 Oyun
-- Unity (2D)
-- Mekanik odaklı sistem tasarımı
+### Veritabanı
 
-### 📈 Veri & ML
-- Python (scikit-learn)
-- Sağlık verileriyle anomali tespiti *(Isolation Forest)*
+* Microsoft SQL Server
+* CRUD İşlemleri
+* Sorgu Optimizasyonu
 
-### 🔧 Araçlar
-- Git, GitHub
-- Postman
-- DevExpress
+### Araçlar
+
+* Git
+* GitHub
+* DevExpress
 
 ---
 
 ## 🧩 Yaklaşımım
 
-> *“Benim için önemli olan, bir sistemin sadece karmaşık olması değil;  
-> kendi mantığını kurabilmesi ve iz bırakmasıdır.”*
+> *"Bir yazılımın değeri yalnızca çalışmasında değil, sürdürülebilir, anlaşılır ve geliştirilebilir olmasında yatar."*
 
-- Fikir üretirken klasik yolların dışına çıkmayı severim  
-  *(doğa, müzik ve soyut kavramlardan ilham alırım)*
-- Disiplinleri birbirine bağlamayı önemserim  
-  *(oyun, algoritma, şifreleme, veri)*
-- Projelerimde:
-  - dışarıdan bakıldığında **anlaşılması zor**,
-  - yapısal olarak **tutarlı ve güvenli**,
-  - kullanıcı açısından **sade ve etkili**
-  sistemler kurmayı hedeflerim
-- Bir problemi çözerken tek bir doğru yerine,  
-  **en özgün ve en anlamlı çözümü** ararım
-  ---
-## ⭐ Featured Projects
+Projelerimde:
 
-### 🎮 Ruh Avcısı: Kaybolmuş Ruhlar
-Karanlık fantastik temalı, mekanik odaklı 2D Unity oyunu.  
-Ruh mızrağı fırlatma ve dönen lanet çarkları üzerine kurulu bir sistem.
+* Kullanıcı deneyimini ön planda tutmaya
+* Güvenilir ve sürdürülebilir çözümler geliştirmeye
+* Farklı disiplinlerden ilham alarak özgün fikirler üretmeye
+* Teorik bilgiyi gerçek dünya problemlerine uygulamaya
 
-🔗 Repo: https://github.com/SultanKarapinar/mizrak_firlatma 
-🎥 Demo Video:https://youtu.be/NwLNO1wB8Xw
+özen gösteriyorum.
+
+---
+
+## ⭐ Öne Çıkan Projeler
+
+### 📦 Mobil Envanter ve Stok Yönetim Sistemi
+
+Ortak Eğitim Programı kapsamında geliştirilen web tabanlı envanter yönetim sisteminin mobil platformlara uyarlanmış versiyonu.
+
+**Özellikler:**
+
+* Envanter yönetimi
+* Stok giriş-çıkış takibi
+* Maliyet analizleri
+* Dijital raporlama
+* Mobil erişim desteği
 
 ---
 
 ### 🔐 Görüntü Şifreleme Projesi
-Her pikselin molekül yapısına dönüştürüldüğü, veritabanı destekli özgün bir görüntü şifreleme yaklaşımı.
 
-🔗 Repo: https://github.com/SultanKarapinar/Real-Time-Image-Encryption-with-OpenCV
+Her pikselin molekül yapılarıyla ilişkilendirildiği ve veritabanı desteğiyle çalışan özgün bir görüntü şifreleme sistemi.
+
+**Repo:**
+https://github.com/SultanKarapinar/Real-Time-Image-Encryption-with-OpenCV
+
+---
+
+### 💍 Dijital Düğün Davetiyesi
+
+Modern, mobil uyumlu ve kullanıcı dostu arayüz sunan web tabanlı dijital davetiye uygulaması.
+
+**Özellikler:**
+
+* Şık tasarım
+* Mobil uyumluluk
+* Konum ve etkinlik bilgileri
+* Kolay paylaşım desteği
+
+---
+
+
+⭐ Yazılım geliştirme, veri yönetimi ve özgün algoritmalar üzerine çalışıyor; yeni teknolojiler öğrenmeye ve üretmeye devam ediyorum.
 
 ---
 ## 📊 GitHub İstatistiklerim
